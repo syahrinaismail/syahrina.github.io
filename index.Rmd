@@ -1,0 +1,18 @@
+---
+  title: ""
+---
+  
+  <link rel="stylesheet" href:"styles.css" type="text/css">
+  
+  
+  <img scr="image/profile1.jpg" style="width:20%; border:10px solid" align="center">
+  
+  **Syahrina Ismail**  
+  **Pen Peg Teknologi Maklumat**  
+  **Universiti Teknologi MARA Cawangan Kedah**  
+  ---
+  
+  **BACKGROUND**
+  
+  
+  

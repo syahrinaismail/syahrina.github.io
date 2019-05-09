@@ -1,0 +1,17 @@
+name:"Syahrina Ismail"
+output_diri:"."
+navbar:
+  title:"Syahrina Ismail"
+  left:
+    -text: "Home"
+     href:index.html
+     
+     right:
+       -icon: fa-envelope fa-lg
+     href: contact.html
+     
+output:
+  html_document
+  theme: paper
+  css:"style.css"
+
